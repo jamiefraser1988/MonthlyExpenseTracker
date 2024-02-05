@@ -18,7 +18,7 @@ This React Native app is designed to help users manage their expenses efficientl
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker-app.git
+git clone https://github.com/jamiefraser1988/MonthlyExpenseTracker
 cd expense-tracker-app
 ```
 
@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any questions or suggestions, please reach out to [Your Email](mailto:youremail@example.com).
+For any questions or suggestions, please reach out to [Your Email](mailto:jamie.fraser1988@gmail.com).
 ```
 
