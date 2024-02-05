@@ -1,4 +1,4 @@
-package com.moneymanager
+package com.monthlyexpensetracker
 
 import android.app.Application
 import com.facebook.react.PackageList
