@@ -17,24 +17,20 @@ This React Native app is designed to help users manage their expenses efficientl
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/jamiefraser1988/MonthlyExpenseTracker
 cd expense-tracker-app
-```
+
 
 Install the dependencies:
 
-```bash
 npm install
-```
 
 Run the app on your device or emulator:
 
-```bash
 npx react-native run-android
 # or
 npx react-native run-ios
-```
+
 
 ## Usage
 
